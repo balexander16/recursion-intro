@@ -15,7 +15,7 @@ public class PalindromesTest {
     assertFalse(Palindromes.isPalindrome("Blah blah blah"));
   }
 
-  
+
 
 
 }
